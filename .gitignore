@@ -1,0 +1,5 @@
+#ignoring
+*.tmp
+*.out
+tmp/*
+
